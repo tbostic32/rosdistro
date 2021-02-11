@@ -15759,6 +15759,12 @@ repositories:
       url: https://github.com/NicksSimulationsROS/sync_params.git
       version: ros-kinetic
     status: developed
+  t_mapping:
+    source:
+      type: git
+      url: https://github.com/mitre/t_mapping.git
+      version: kinetic-devel
+    status: maintained
   talos_robot:
     release:
       packages:
